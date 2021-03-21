@@ -1,4 +1,4 @@
-<h1>News App <img src="https://swiftuimasterclass.com/resources/logo-swiftui-masterclass.png" width="100"/>  &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqedJAcAGus9azTJ_7DcEmu6aUkUXFofxRQ&usqp=CAU" width ="150" height="100px" /></h1>
+<h1>News App <img src="https://swiftuimasterclass.com/resources/logo-swiftui-masterclass.png" width="80" height="80"/>  &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqedJAcAGus9azTJ_7DcEmu6aUkUXFofxRQ&usqp=CAU" width ="100" height="90px" /></h1>
 
 ---
 
