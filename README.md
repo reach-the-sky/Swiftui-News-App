@@ -1,4 +1,4 @@
-<h1>News App <img src="https://swiftuimasterclass.com/resources/logo-swiftui-masterclass.png" width="80" height="80"/>  &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqedJAcAGus9azTJ_7DcEmu6aUkUXFofxRQ&usqp=CAU" width ="100" height="90px" /></h1>
+<h1>News App &nbsp; <img src="https://swiftuimasterclass.com/resources/logo-swiftui-masterclass.png" width="80" height="80"/>  &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqedJAcAGus9azTJ_7DcEmu6aUkUXFofxRQ&usqp=CAU" width ="100" height="90px" /></h1>
 
 ---
 
@@ -16,6 +16,6 @@ This is a News app that fetches data from an api. The news are organized based o
 
 ##### To clone this repository
 
-> git clone https://github.com/reach-the-sky/Swiftui-News-App.git
+> `git clone https://github.com/reach-the-sky/Swiftui-News-App.git`
 
 If you liked my project and appreciate the content I opensource, consider following me on github [🌥](https://github.com/reach-the-sky).
